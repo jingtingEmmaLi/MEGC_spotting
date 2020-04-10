@@ -6,6 +6,6 @@ The location of landmarks for regions of interest is not uploaded because it dep
 
 LI, Jingting, SOLADIE, Catherine, et SEGUIER, Renaud. LTP-ML: Micro-Expression Detection by Recognition of Local Temporal Pattern of Facial Movements. In : Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018. p. 634-641 
 
-![image](https://github.com/jingtingEmmaLi/MEGC_spotting/master/exempleROI.png)
+![image](https://github.com/jingtingEmmaLi/MEGC_spotting/blob/master/exempleROI.png)
 
 In my case: nbROI = [1, 4, 5, 6, 7, 10, 11, 14, 32, 35, 38, 41]
